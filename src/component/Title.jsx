@@ -4,7 +4,7 @@ function Title() {
     return ( 
     
 <div className="">
-<div className="mr-56 w-20 relative ...">
+<div className="mr-56 w-20 relative top-4 left-10 ...">
 <a  href="https://liceo.edu.ph/"
         target="_blank"
         rel="noopener noreferrer"
@@ -17,7 +17,7 @@ function Title() {
         <div className="absolute inset-x-0 top-8 h-16 text-center font-bold">Liceo De Cagayan University</div>
         <div className="mx-40 absolute inset-x-0 top-12 h-16 text-center">FJPQ+CM7, Rodolfo N. Pelaez Blvd, Cagayan de Oro, 9000 Misamis Oriental</div>
         
-            <div className="absolute top-0 right-0 w-20 ...">
+            <div className="absolute top-4 right-10 w-20 ...">
         <a  href="https://www.facebook.com/CITLiceoU/"
         target="_blank"
         rel="noopener noreferrer">
